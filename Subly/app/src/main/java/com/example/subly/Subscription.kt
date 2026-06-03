@@ -6,3 +6,4 @@ data class Subscription(
     val tipo: String, // "Mensal" ou "Anual"
     val dataCobranca: String
 )
+
