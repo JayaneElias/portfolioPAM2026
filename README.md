@@ -16,7 +16,12 @@
   <img src="./Img/Subly-Telas.gif" width="300px">
 </p>
 
-| Tela de Cadastro | Tela Home | Tela de Projeção |
+| Tela Inicial | Tela de Cadastro | Tela de Login |
+|------------------|--------------------------|-------------------------|
+| <img src="Img/Inicial.jpeg" width="200px"> | <img src="Img/Cadastro_User.jpeg" width="200px"> | <img src="Img/Login.jpeg" width="200px"> |
+<br/>
+
+| Tela de Adicionar | Tela Home | Tela de Projeção |
 |------------------|--------------------------|-------------------------|
 | <img src="Img/Cadastro_Assinatura.jpeg" width="200px"> | <img src="Img/Home_Assinatura.jpeg" width="200px"> | <img src="Img/Projeção_Gastos.jpeg" width="200px"> |
 
