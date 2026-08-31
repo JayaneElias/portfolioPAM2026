@@ -16,6 +16,17 @@
   <img src="./Img/persona_spokeo.png" width="500px">
 </p>
 
+
+<h3>Meu tema foi: </h3> <h2>MÁSCARAS CULTURAIS</h2>
+</div>
+
+
+<h3>Onde eu deveria criar um app com um acervo fotográfico de uma gama de máscaras de uso rituálistico ou teatrais de distintas culturas, povos e lugares</h3>
+
+<br> 
+<div align="center">
+
+  
 | Tela Login | Tela de Cadastro | Tela Home |
 |------------------|--------------------------|-------------------------|
 | <img src="Img/login_ps.jpeg" width="200px"> | <img src="Img/cadastro_ps.jpeg" width="200px"> | <img src="Img/home_ps.jpeg" width="200px"> |
@@ -28,10 +39,28 @@
 <h3>Usuários salvos no Firebase</h3>
 <img src="./Img/salvo_firebase.png" width="500px">
 
+</div>
+<h3>ARQUIVOS DO PROJETO</h3>
+
+<h4>Login: Tela de entrada do usuário utilizando e-mail e senha.</h4>
+
+<h4>Cadastro: Tela para criação de uma nova conta integrada ao Firebase Authentication.</h4>
+
+<h4>Home + Cards: Tela principal do acervo com as culturas e os cards das máscaras.</h4>
+
+<h4>Favoritos: Tela que reúne as máscaras marcadas como favoritas pelo usuário.</h4>
+
+<h4>AuthViewModel: Responsável pelo gerenciamento da autenticação do usuário.</h4>
+
+<h4>MainActivity: Ponto de entrada principal do aplicativo.</h4>
+
+<h4>MyAppNavigation: Responsável pela navegação entre as telas do aplicativo.</h4>
+
+<div align="center">
+
 <br/><br/>
 
 
-  
 # ★ Telas do Projeto - Subly ★
 
 <p align="center">
