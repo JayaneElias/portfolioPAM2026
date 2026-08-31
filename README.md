@@ -23,7 +23,7 @@
 
 | Card de Dados | Tela de Favoritos | Tela de Favoritos Vazia|
 |------------------|--------------------------|-------------------------|
-| <img src="Img/card_ps.jpeg" width="200px"> | <img src="Img/favoritos_ps.jpeg" width="200px"> | <img src="Img/favoritosVazio_ps.jpeg" width="200px"> |
+| <img src="Img/card.jpeg" width="200px"> | <img src="Img/favoritos_ps.jpeg" width="200px"> | <img src="Img/favoritosVazio_ps.jpeg" width="200px"> |
 
 <h3>Usuários salvos no Firebase</h3>
 <img src="./Img/salvo_firebase.png" width="500px">
