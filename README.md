@@ -9,6 +9,28 @@
   Atividades de 2026 da matéria do curso de Programação de Aplicativos Mobiles.
 </h3>
 <br/> <div align="center">
+
+# ★ Telas do Projeto - Persona Spokeo ★
+
+<p align="center">
+  <img src="./Img/persona_spokeo.png" width="500px">
+</p>
+
+| Tela Login | Tela de Cadastro | Tela Home |
+|------------------|--------------------------|-------------------------|
+| <img src="Img/login_ps.jpeg" width="200px"> | <img src="Img/cadastro_ps.jpeg" width="200px"> | <img src="Img/home_ps.jpeg" width="200px"> |
+<br/>
+
+| Card de Dados | Tela de Favoritos | Tela de Favoritos Vazia|
+|------------------|--------------------------|-------------------------|
+| <img src="Img/card_ps.jpeg" width="200px"> | <img src="Img/favorito_ps.jpeg" width="200px"> | <img src="Img/favoritovazio_ps.jpeg" width="200px"> |
+
+<h3>Usuários salvos no Firebase</h3>
+<img src="./Img/salvo_firebase.png" width="500px">
+
+<br/><br/>
+
+
   
 # ★ Telas do Projeto - Subly ★
 
