@@ -14,11 +14,11 @@
   
 # ★ Telas do Projeto - Entre Águas★
 
-<img src="app/src/main/res/drawable/logo_entreaguas.png" width="200" alt="Logo Entre Águas">
+<img src="Img/logo_entreaguas.png" width="300" alt="Logo Entre Águas">
   
 </div>
 
-<br/>
+
 
 
 ## Sobre o aplicativo
@@ -107,14 +107,16 @@ A logo e os elementos visuais remetem à navegação, viagens e registros de mem
 
 O objetivo do aplicativo é permitir que o usuário registre suas experiências de navegação e passeios, mantendo organizadas as informações sobre os locais visitados, as rotas realizadas, as paradas e as observações feitas durante cada viagem.
 
+<br>
+
 
 <div align="center">
 
-## Tabela - Telas Entre Águas
+## Telas do Projeto - Entre Águas
 
-| Tela Login | Tela de Cadastro | Logo do Projeto |
+| Tela de Cadastro | Tela Login | Tela Home (Antes) |
 |:---:|:---:|:---:|
-| <img src="Img/login_EA.jpeg" width="200px"> | <img src="Img/cadastro_EA.jpeg" width="200px"> | <img src="Img/logo_entreaguas.png" width="200px"> |
+| <img src="Img/cadastro_EA.jpeg" width="200px"> | <img src="Img/login_EA.jpeg" width="200px"> | <img src="Img/home-before_EA.jpeg" width="200px"> |
 
 <br/>
 
@@ -124,11 +126,9 @@ O objetivo do aplicativo é permitir que o usuário registre suas experiências 
 
 <br/>
 
-| Tela Home (Antes) | Tela Home (Depois) | Card de Dados |
+| Tela Home (Depois) | Card de Dados | Logo do Projeto |
 |:---:|:---:|:---:|
-| <img src="Img/home-before_EA.jpeg" width="200px"> | <img src="Img/home-after_EA.jpeg" width="200px"> | <img src="Img/card_EA.jpeg" width="200px"> |
-
-<br/>
+| <img src="Img/home-after_EA.jpeg" width="200px"> | <img src="Img/card_EA.jpeg" width="200px"> | <img src="Img/logo_entreaguas.png" width="200px"> |
 
 </div>
 
