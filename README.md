@@ -8,7 +8,133 @@
 <h3 align="center">
   Atividades de 2026 da matéria do curso de Programação de Aplicativos Mobiles.
 </h3>
-<br/> <div align="center">
+<br/> <br/>
+
+<div align="center">
+  
+# ★ Telas do Projeto - Entre Águas★
+
+<img src="app/src/main/res/drawable/logo_entreaguas.png" width="200" alt="Logo Entre Águas">
+  
+</div>
+
+<br/>
+
+
+## Sobre o aplicativo
+
+O Entre Águas é um aplicativo desenvolvido com a proposta de funcionar como um diário de navegação e passeios.
+
+O aplicativo permite registrar e organizar memórias relacionadas a viagens de barco, rios navegados, paradas realizadas e observações da natureza encontradas durante os passeios.
+
+A proposta é proporcionar uma forma simples e organizada de guardar essas experiências, utilizando uma identidade visual inspirada em diários de viagem e navegação.
+
+<br/>
+
+## Funcionalidades
+
+- Cadastro e login de usuários;
+- Registro da data do passeio e locais visitados.
+- Descrição da rota realizada e das paradas;
+- Observações sobre a natureza;
+- Avaliação do passeio utilizando estrelas;
+- Armazenamento dos dados no Firebase Firestore.
+
+## CRUD
+- Criação (CREATE): cadastro de novos registros de viagens no diário de navegação.
+- Visualização (READ): consulta dos registros salvos e dos detalhes de cada viagem.
+- Edição (UPDATE): alteração das informações de registros existentes.
+- Exclusão (DELETE): remoção de registros do diário.
+
+<br/>
+
+## Tecnologias utilizadas
+
+- Kotlin
+- Android
+- Jetpack Compose
+- Firebase Authentication
+- Firebase Firestore
+- Android Studio
+
+<br/>
+
+## Estrutura do aplicativo
+
+O aplicativo possui as seguintes telas principais:
+
+- **Login:** acesso do usuário à aplicação.
+- **Cadastro:** criação de uma nova conta.
+- **Home:** exibição dos registros do diário.
+- **Registro:** criação e edição das informações de uma viagem.
+
+<br/>
+
+## Banco de dados
+
+Os registros são armazenados no **Firebase Firestore**.
+
+Cada registro contém informações como:
+
+- Título;
+- Data;
+- Local/Rio;
+- Rota;
+- Paradas;
+- Observações da natureza;
+- Avaliação em estrelas;
+- Identificação do usuário.
+
+<br/>
+
+## Identidade visual
+
+A identidade visual do Entre Águas foi inspirada em diários de navegação e passeios.
+
+A interface utiliza tons de:
+
+- Bege;
+- Marrom;
+- Azul;
+- Verde;
+- Lilás.
+
+A logo e os elementos visuais remetem à navegação, viagens e registros de memórias.
+
+<br/>
+
+## Objetivo
+
+O objetivo do aplicativo é permitir que o usuário registre suas experiências de navegação e passeios, mantendo organizadas as informações sobre os locais visitados, as rotas realizadas, as paradas e as observações feitas durante cada viagem.
+
+
+<div align="center">
+
+## Tabela - Telas Entre Águas
+
+| Tela Login | Tela de Cadastro | Logo do Projeto |
+|:---:|:---:|:---:|
+| <img src="Img/login_EA.jpeg" width="200px"> | <img src="Img/cadastro_EA.jpeg" width="200px"> | <img src="Img/logo_entreaguas.png" width="200px"> |
+
+<br/>
+
+| Tela de Registro 01 | Tela de Registro 02 |
+|:---:|:---:|
+| <img src="Img/registro01_EA.jpeg" width="200px"> | <img src="Img/registro02_EA.jpeg" width="200px"> |
+
+<br/>
+
+| Tela Home (Antes) | Tela Home (Depois) | Card de Dados |
+|:---:|:---:|:---:|
+| <img src="Img/home-before_EA.jpeg" width="200px"> | <img src="Img/home-after_EA.jpeg" width="200px"> | <img src="Img/card_EA.jpeg" width="200px"> |
+
+<br/>
+
+</div>
+
+
+<br/> <br/> 
+<div align="center">
 
 # ★ Telas do Projeto - Persona Spokeo ★
 
